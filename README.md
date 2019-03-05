@@ -1,4 +1,4 @@
-# events
+# Blockchain Slovakia Event Organization
 Repository dedicated to organization of events and submiting proposals from public in form of issues with label - Idea.
 
 ### How to submit new event proposal?
